@@ -1,5 +1,4 @@
 🎮 Algo-Play
-[![GitHub stars](https://img.shields.io/github/stars/rohanparvej/algo-Play?style=social)](https://github.com/rohanparvej/algo-Play/stargazers)
 
 [![GitHub Pages](https://img.shields.io/badge/🌐-Live%20Demo-blue)](https://rohanparvej.github.io/algo-play/)
 
@@ -7,7 +6,7 @@ Welcome to Algo-Play — a small playground where algorithms come alive right in
 Tired of staring at pseudocode in textbooks? This project lets you see algorithms in action and have a little fun while learning.
 
 🌐 Play Now on GitHub Pages:
-👉 Algo-Play Live
+👉 Algo-Play Live [![GitHub Pages](https://img.shields.io/badge/🌐-Live%20Demo-blue)](https://rohanparvej.github.io/algo-play/)
 
 ✨ Current Level: Features Available: 1
 
