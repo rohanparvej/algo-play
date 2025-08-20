@@ -1,3 +1,4 @@
+docs/* linguist-documentation=false
 docs/**.html linguist-language=HTML
 docs/**.css linguist-language=CSS
 docs/**.js linguist-language=JavaScript
