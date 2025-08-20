@@ -1,6 +1,6 @@
-docs/*.html linguist-language=HTML
-docs/*.css linguist-language=CSS
-docs/*.js linguist-language=JavaScript
+docs/**.html linguist-language=HTML
+docs/**.css linguist-language=CSS
+docs/**.js linguist-language=JavaScript
 *.png linguist-vendored
 *.jpg linguist-vendored
 *.jpeg linguist-vendored
