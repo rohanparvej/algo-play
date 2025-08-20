@@ -6,11 +6,18 @@ Welcome to Algo-Play — a small playground where algorithms come alive right in
 Tired of staring at pseudocode in textbooks? This project lets you see algorithms in action and have a little fun while learning.
 
 🌐 Play Now on GitHub Pages:
-👉 Algo-Play Live [![GitHub Pages](https://img.shields.io/badge/🌐-Live%20Demo-blue)](https://rohanparvej.github.io/algo-play/)
+👉 Algo-Play Live🔴 [![GitHub Pages](https://img.shields.io/badge/🌐-Live%20Demo-blue)](https://rohanparvej.github.io/algo-play/)
+
+## 👀 Preview
+![Algo-Play Screenshot](screenshot01.png)
+
 
 ✨ Current Level: Features Available: 1
 
 🔵 Bubble Sort — watch your numbers bubble to the top! 🫧
+
+## 👀 Preview
+![Algo-Play Screenshot](screenshot02.png)
 
 🛠️ Upcoming Levels: Features on the Way: 2
 
