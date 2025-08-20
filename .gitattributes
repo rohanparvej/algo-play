@@ -1,4 +1,8 @@
-# Force GitHub to count HTML, CSS, JS in docs/
 docs/*.html linguist-language=HTML
 docs/*.css linguist-language=CSS
 docs/*.js linguist-language=JavaScript
+*.png linguist-vendored
+*.jpg linguist-vendored
+*.jpeg linguist-vendored
+*.gif linguist-vendored
+*.md linguist-vendored
